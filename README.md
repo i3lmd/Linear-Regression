@@ -20,7 +20,7 @@ This project demonstrates a simple linear regression model built using Python's 
 ## 🚀 How to Run
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/i3lmd/Linear-Regression.git
     ```
 2. Install the required libraries:
     ```bash
